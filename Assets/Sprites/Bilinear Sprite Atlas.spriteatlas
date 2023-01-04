@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bilinear Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a99d2b6ec1cffbf43b7b29a61756dd9f, type: 3}
+    - {fileID: 2800000, guid: 62fc24a41d8a64f4488efcb5b47b5cd0, type: 3}
+    - {fileID: 21300000, guid: ab01f61b3c6a46c4587ab9734c601f5a, type: 3}
+    - {fileID: 21300000, guid: 151eef41825813d4f96dd0d4c8ecdc2f, type: 3}
+    - {fileID: 21300000, guid: f742986c8cfb0f9408700b55894aba73, type: 3}
+    - {fileID: 21300000, guid: 072fb9c03f98b8541804c8632eda3b74, type: 3}
+    - {fileID: 21300000, guid: 17729fe1353b2f247bf96445ab7798b1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e9313620d8b44324ea02f98a3ee892be, type: 3}
+  - {fileID: 21300000, guid: f0328e3028fda6341a7f32ca37ccd221, type: 3}
+  - {fileID: 21300000, guid: ca6841502e6bca24187cacb218fd5561, type: 3}
+  - {fileID: 21300000, guid: 072fb9c03f98b8541804c8632eda3b74, type: 3}
+  - {fileID: 21300000, guid: 31eddef01407d664bb7dc07175c9797f, type: 3}
+  - {fileID: 21300000, guid: 01c1e211013f19a479f0e2c12fea10a2, type: 3}
+  - {fileID: 21300000, guid: 151eef41825813d4f96dd0d4c8ecdc2f, type: 3}
+  - {fileID: 21300000, guid: c923db515dd60ec4e9cd1f350be245a9, type: 3}
+  - {fileID: 21300000, guid: 17729fe1353b2f247bf96445ab7798b1, type: 3}
+  - {fileID: 21300000, guid: 630227a2121b4a243888619c45836138, type: 3}
+  - {fileID: 21300000, guid: 62fc24a41d8a64f4488efcb5b47b5cd0, type: 3}
+  - {fileID: 21300000, guid: 442d8366ad5d42f46acfc9133b342c22, type: 3}
+  - {fileID: 21300000, guid: a2d04d67b859524439e945022e0597ea, type: 3}
+  - {fileID: 21300000, guid: 86f917da3ee3c69479ab74f43290683f, type: 3}
+  - {fileID: 21300000, guid: 429517ea1b1287a47952cd5cd8261d74, type: 3}
+  - {fileID: 21300000, guid: 9d1a3e0bc36dfc9468a738d92b6e92d4, type: 3}
+  - {fileID: 21300000, guid: ab01f61b3c6a46c4587ab9734c601f5a, type: 3}
+  - {fileID: 21300000, guid: b670707b2788d99448bbb478fc248530, type: 3}
+  - {fileID: 21300000, guid: 680f8afb79e338a47a220c4a199533c5, type: 3}
+  - {fileID: 21300000, guid: b5b8e73cc720ab446a25f00fc5ae7dc6, type: 3}
+  - {fileID: 21300000, guid: f742986c8cfb0f9408700b55894aba73, type: 3}
+  - {fileID: 21300000, guid: 367fef7c7a0cf8b4e8fc2020259965e9, type: 3}
+  - {fileID: 21300000, guid: fd00b29c3d9553d4c8e0ab3b572af409, type: 3}
+  - {fileID: 21300000, guid: 5363ba5ff6a4d25418d986e793446fdb, type: 3}
+  - {fileID: 21300000, guid: 0ceb3b7f07f8bff499799cb7cfa69fcd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Layer_2
+  - Layer_4
+  - Layer_3
+  - Layer_3
+  - Layer_2
+  - Layer_4
+  - Layer_1
+  - Layer_0
+  - Layer_4
+  - Layer_1
+  - Thumb
+  - Layer_1
+  - Layer_0
+  - Layer_0
+  - 4_Snow
+  - 2_Desert
+  - Layer_0
+  - Layer_2
+  - Layer_1
+  - Layer_3
+  - Layer_2
+  - 3_Graveyard
+  - 1_Mountain
+  - Layer_3
+  - Layer_4
+  m_RenderDataMap: {}
+  m_Tag: Bilinear Sprite Atlas
+  m_IsVariant: 0
