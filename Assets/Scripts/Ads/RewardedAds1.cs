@@ -22,6 +22,7 @@ public class RewardedAds1 : MonoBehaviour, IUnityAdsLoadListener, IUnityAdsShowL
 
     public void LoadAd()
     {
+        gameManager.buttonPlayAdGO.interactable = false;
         Debug.Log("Loading Ad: " + _adUnitId);
         Advertisement.Load(_adUnitId, this);
     }
@@ -47,8 +48,8 @@ public class RewardedAds1 : MonoBehaviour, IUnityAdsLoadListener, IUnityAdsShowL
         {
             Debug.Log("Unity Ads Rewarded Ad Completed");
             gameManager.totalCoinAmount += gameManager.coinAmount;
-            gameManager.panelDoubleCoins.gameObject.SetActive(false);
             gameManager.imageShowCoinsAd.gameObject.SetActive(true);
+            gameManager.panelDoubleCoins.gameObject.SetActive(false);
             coinsText.text = (gameManager.coinAmount * 2).ToString();
         }
     }

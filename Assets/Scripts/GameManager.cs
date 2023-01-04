@@ -69,8 +69,9 @@ public class GameManager : MonoBehaviour
     [SerializeField] private Button starButton2;
     [SerializeField] private AudioClip platineMusic;
     [SerializeField] private AudioSource platineAudioSource;
-    [SerializeField] public Image displayCoinsAd;
     [SerializeField] private Text coinAmountAdText;
+    public Image displayCoinsAd;
+    public Button buttonPlayAdGO;
 
 
     [Header("References")]

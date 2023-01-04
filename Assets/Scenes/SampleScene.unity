@@ -13825,8 +13825,9 @@ MonoBehaviour:
   starButton2: {fileID: 295645507}
   platineMusic: {fileID: 8300000, guid: 57727084bd677b44eb4471e2fada61fa, type: 3}
   platineAudioSource: {fileID: 1520740620}
-  displayCoinsAd: {fileID: 1591783272}
   coinAmountAdText: {fileID: 886824395}
+  displayCoinsAd: {fileID: 1591783272}
+  buttonPlayAdGO: {fileID: 770694718}
   hats: {fileID: 1989119187}
   leaderboard: {fileID: 1207299748}
   leaderboardAchiev: {fileID: 206125476}
