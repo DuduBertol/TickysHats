@@ -1,7 +1,5 @@
 # TickysHats
 
-  - TICKY'S HATS 
-  
 ![Thumb](https://github.com/DuduBertol/TickysHats-Game/assets/88258208/dcb70877-6248-495d-a380-64c2ce65fe02)
 
 
